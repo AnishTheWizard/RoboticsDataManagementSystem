@@ -5,7 +5,7 @@ import csv
 import json
 from typing import TextIO
 
-from DataErrors import *
+from src.DataErrors import *
 
 __author__ = "Anish Chandra"
 __version__ = "1.0"

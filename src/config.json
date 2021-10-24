@@ -1,0 +1,6 @@
+{
+  "Working_Directory": "/home/anishthewizard/Documents/Programming/Scouting/RoboticsDataManagementSystem/Data",
+  "Target_JSON": "/home/anishthewizard/Documents/Programming/Scouting/RoboticsDataManagementSystem/Data/compiled.json",
+  "Target_CSV": "/home/anishthewizard/Documents/Programming/Scouting/RoboticsDataManagementSystem/Data/compiled.csv",
+  "Label_Order": ["Scouter Name", "Team Number", "Auton Reliability", "Balls Shot in Auton", "Color Wheel", "Tele-Op Port", "Shooting Preference", "Ball Capacity", "Climber Consistency", "Climb Preference"]
+}

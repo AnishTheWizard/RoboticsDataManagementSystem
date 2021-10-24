@@ -1,6 +1,6 @@
 """Main Code Compiling and Handling All Parts of Data"""
-from DataManagement import *
-from DataErrors import *
+from src.DataManagement import *
+from src.DataErrors import *
 import sys
 import os
 import json
