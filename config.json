@@ -1,0 +1,6 @@
+{
+  "Working_Directory": "/home/anishthewizard/PycharmProjects/RoboticsDataStuff/scouting",
+  "Target_JSON": "/home/anishthewizard/PycharmProjects/RoboticsDataStuff/scouting/finaldata.json",
+  "Target_CSV": "/home/anishthewizard/PycharmProjects/RoboticsDataStuff/scouting/finaldata.csv",
+  "Label_Order": ["Scouter Name", "Team Number", "Auton Reliability", "Balls Shot in Auton", "Color Wheel", "Tele-Op Port", "Shooting Preference", "Ball Capacity", "Climber Consistency", "Climb Preference"]
+}
